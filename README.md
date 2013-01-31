@@ -1,4 +1,0 @@
-opress
-======
-
-trabajo en equipo
